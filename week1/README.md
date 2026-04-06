@@ -44,3 +44,21 @@ Sample code to get you familiar with the dpkt syntax can be found [here](https:/
 ```python dpkt-example.py path_to_pcap_file```
 
 For more details such as how to parse IP and MAC addresses, please refer to the dpkt documentation.
+
+## ICMP
+Internet Control Message Protocol (ICMP) is a network layer protocol that's generally used for diagnosing network issues. Two widely-used tools that use ICMP are `ping` and `traceroute`.
+
+### Ping
+The `ping` command tests whether a target host is online and estimates the round-trip times (RTTs), i.e., the time it takes to send and receive data from that host.
+
+#### Syntax
+ - `ping ip_address`
+ - `ping domain`
+
+### Traceroute
+The `traceroute` command calculates the round-trip times (RTTs) to each individual hop (i.e., routers) along the route to a target host.
+
+#### Syntax
+ - `traceroute ip_address`
+ - `traceroute domain`
+
