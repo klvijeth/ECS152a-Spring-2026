@@ -1,9 +1,6 @@
-# ECS 152A Discussions (Fall 2024)
+# ECS 152A/EEC173A Discussions (Spring 2026)
 
 ## TA: Vijeth Kumbarahally Lakshminarayana
-- Office Hours: Tuesdays at 2:10pm to 3:10pm in Kemper 47
-- Please use Canvas for communications
-  - Create threads for general questions
-  - DM for individual questions
+- Office Hours: Tuesdays at 2:00pm to 3:00pm in Kemper 3087
 
 ## Week 1: [Wireshark + dpkt](week1/)
